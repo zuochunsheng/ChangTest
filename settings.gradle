@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ChangTest"
 include ':app'
+include ':javalib2'
